@@ -63,6 +63,11 @@ IPFS is a distributed system for storing and accessing files, websites, applicat
 - [Filebase](https://filebase.com) _(IPFS Pinning Service)_
 - [Spheron Network](https://spheron.network/) _(IPFS/Filecoin pinning service)_
 
+If you're using IPFS for offchain NFT data, also back up that data in [NFT.Storage](https://app.nft.storage/signup). This is required to keep the data secure—IPFS pins aren’t maintained, the data can go offline. The NFTs become “dead” assets where ownership exists, but there is no longer access to the offchain data. 
+
+[NFT.Storage](https://app.nft.storage/signup) is a purpose-built public good for securing offchain NFT data using IPFS and Filecoin. It aims to provide secure, long-term storage for NFT metadata and media with a focus on decentralization and transparency. NFT.Storage aims to ensure your data remains reliable and accessible for the long term.
+
+
 SWARM is a decentralized data storage and distribution technology with a storage incentive system and a storage rent price oracle.
 
 ## Data retention {#data-retention}
